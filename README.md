@@ -21,7 +21,7 @@ In recent years, intelligent transfer models have focused on narrowing the gap b
 
 **You can find the dataset here:
 【1】Case Western Reserve University Bearing Data Center Website [Online] Available: http://csegroups.case.edu/bearingdatacenter/home [DB]. 
-【2】Thuan N D, Hong H S. HUST bearing: a practical dataset for ball bearing fault diagnosis [J]. BMC Research Notes, 2023, 16(1): 138.http://dx.doi.org/10.1186/s13104-023-06400-4.
+【2】Huang H, Baddour N, Liang M. Multiple time-frequency curve extraction Matlab code and its application to automatic bearing fault diagnosis under time-varying speed conditions [J]. MethodsX, 2019, 6: 1415-32.https://www.sciencedirect.com/science/article/pii/S2215016119301402.
 And the paper can be downloaded from my personal homepage [here](https://john-520.github.io/).**
 
 
