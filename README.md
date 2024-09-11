@@ -1,3 +1,4 @@
 # Models-for-DPICEN 
 Models for DPICEN
-Code will be released if the review is accepted.
+
+You can see the code in the master branch
